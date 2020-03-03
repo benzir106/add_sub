@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Addsub3</string>
+    <string name="enter_the_number1">Enter the number1</string>
+    <string name="enter_the_number2">Enter the number2</string>
+    <string name="add">+</string>
+    <string name="sub">-</string>
+    <string name="div">/</string>
+    <string name="mul">*</string>
+    <string name="per">%</string>
+</resources>
